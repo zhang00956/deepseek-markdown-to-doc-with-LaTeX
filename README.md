@@ -1,7 +1,7 @@
-# deepseek导出doc with LaTeX
-**deepseek导出doc with LaTeX,常见的md转doc文件随便转，但是一旦md文件里面包含了LaTeX公式，尤其是deepseek生成的内容使用在线导出doc，Typora等工具导出后都无法识别数学公式。**
+# deepseek markdown to doc with LaTeX
+**deepseek对话导出doc with LaTeX,常见的md转doc文件随便转，但是一旦md文件里面包含了LaTeX公式，尤其是deepseek生成的内容使用在线导出doc，Typora等工具导出后都无法识别数学公式。**
 
-**deepseek网页转doc,deepseek输出内容 LaTeX转doc,deepseek转doc**
+**deepseek对话转doc,deepseek对话含 LaTeX转doc，deepseek markdown导出 to doc,deepseek转doc**
 
 1. 可以使用vscode+[Markdown Preview Enhanced插件](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)+pandoc，完美解决。
 2. 首先安装pandoc，安装Markdown Preview Enhanced插件并，设置该插件**Markdown-preview-enhanced:** **Pandoc Path**为pandoc的安装位置
