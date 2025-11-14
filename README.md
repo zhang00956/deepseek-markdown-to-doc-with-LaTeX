@@ -4,7 +4,7 @@
 **deepseek对话转doc,deepseek对话含 LaTeX转doc，deepseek markdown导出 to doc,deepseek转doc**
 
 1. 可以使用vscode+[Markdown Preview Enhanced插件](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)+pandoc，完美解决。
-2. 首先安装pandoc，安装Markdown Preview Enhanced插件并，设置该插件**Markdown-preview-enhanced:** **Pandoc Path**为pandoc的安装位置
+2. 首先安装pandoc.exe，安装Markdown Preview Enhanced插件并，设置该插件**Markdown-preview-enhanced:** **Pandoc Path**为pandoc的安装位置
 3. 新建.md且为UTF-8类型，然后再md文件头部添加额外内容
 
    ```
