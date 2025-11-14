@@ -15,6 +15,6 @@
    output: word_document
    ---
    ```
-4. 选择md文件，右键选择使用Markdown Preview Enhanced打开：
+4. vscode中选择md文件，右键选择打开方式，选择使用Markdown Preview Enhanced打开：
 5. 打开后右键导出 pandoc即可，测试文档见test.md
 6. [可参考Markdown Preview Enhanced插件使用说明](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/pandoc-word)
